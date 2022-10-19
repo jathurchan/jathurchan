@@ -11,7 +11,7 @@
     "programmingLanguages": {
       "advanced": ["Python", "C/C++", "Swift", "HTML", "CSS"],
       "intermediate": ["Java", "Rust", "JavaScript", "SQL", "Bash", "MATLAB", "YAML"],
-      "beginner": ["TypeScript", "Objective-C", ]
+      "beginner": ["TypeScript", "Objective-C"]
     },
     "frameworks": ["Django", "React", "Nextjs", "SwiftUI"]
   }

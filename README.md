@@ -8,9 +8,12 @@
     "pronouns": "He/Him"
   },
   "skills": {
-    "Programming languages": [
-      "Python", "C/C++", "HTML/CSS", "Swift", "JavaScript", "Rust" 
-    ]
+    "programmingLanguages": {
+      "advanced": ["Python", "C/C++", "Swift", "HTML", "CSS"],
+      "intermediate": ["Java", "Rust", "JavaScript", "SQL", "Bash", "MATLAB", "YAML"],
+      "beginner": ["TypeScript", "Objective-C", ]
+    },
+    "frameworks": ["Django", "React", "Nextjs", "SwiftUI"]
   }
 }
 ```

@@ -1,6 +1,6 @@
 ### 👋🏽 Hi, I’m Jathurchan Selvakumar (Jat / Jett)
 
-Software engineer focused on **distributed systems**, **databases**, and **applied ML** for information retrieval.
+I'm a software engineer focused on **distributed systems**, **databases**, and **applied ML** for information retrieval.
 
 [![Home](https://img.shields.io/badge/Website-jat.work-5283ec?style=for-the-badge)](https://jat.work)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jathurchan-blue?style=for-the-badge)](https://linkedin.com/in/jathurchan)

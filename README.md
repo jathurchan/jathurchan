@@ -1,4 +1,4 @@
-# 👋🏽 Hi, I’m Jathurchan Selvakumar (Jat / Jett)
+### 👋🏽 Hi, I’m Jathurchan Selvakumar (Jat / Jett)
 
 Software engineer focused on **distributed systems**, **databases**, and **applied ML** for information retrieval.
 
